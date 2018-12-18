@@ -1,0 +1,54 @@
+[26-Nov-2017 12:32:37 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[26-Nov-2017 12:32:37 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[26-Nov-2017 12:50:04 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[26-Nov-2017 12:50:04 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[26-Nov-2017 15:56:41 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[26-Nov-2017 15:56:41 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[26-Nov-2017 15:58:31 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[26-Nov-2017 15:58:31 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[27-Nov-2017 05:05:58 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[27-Nov-2017 05:05:58 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[27-Nov-2017 05:36:21 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/check.php on line 4
+[27-Nov-2017 05:36:21 UTC] PHP Notice:  Undefined index: Student_Roll_number in /home/anujkrp/public_html/racecomputerinstitute.com/dashboard/mydbcon.php on line 56
+[10-Feb-2018 01:22:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[10-Feb-2018 01:49:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[11-Feb-2018 10:57:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[11-Feb-2018 10:57:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[13-Feb-2018 15:12:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[20-Feb-2018 00:02:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[22-Feb-2018 09:55:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[25-Feb-2018 23:46:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[25-Feb-2018 23:50:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[05-Mar-2018 07:06:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[05-Mar-2018 07:06:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[11-Mar-2018 15:00:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[12-Mar-2018 08:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[14-Mar-2018 18:11:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[14-Mar-2018 18:11:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[16-Mar-2018 19:09:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[18-Mar-2018 20:47:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[25-Mar-2018 12:50:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[25-Mar-2018 12:50:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[25-Mar-2018 12:50:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:00:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:05:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:17:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:17:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:17:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 22
+[26-Mar-2018 04:17:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 23
+[26-Mar-2018 04:17:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 28
+[26-Mar-2018 04:17:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:21:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:32:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:32:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 04:32:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 22
+[26-Mar-2018 04:32:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 23
+[26-Mar-2018 04:32:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 28
+[26-Mar-2018 06:07:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[26-Mar-2018 06:08:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[30-Mar-2018 18:13:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[01-Apr-2018 20:47:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[01-Apr-2018 20:48:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'anujkrp_wp8'@'localhost' (using password: YES) in /home/httpracecomputer/public_html/dashboard/connection.php on line 6
+[01-Apr-2018 20:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 22
+[01-Apr-2018 20:48:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 23
+[01-Apr-2018 20:48:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/httpracecomputer/public_html/dashboard/login_process.php on line 28
